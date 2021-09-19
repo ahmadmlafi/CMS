@@ -1,0 +1,16 @@
+{"email":"ahmad@gmail.com","password":"$2a$10$Nxk5D74zpl.fMHT7C1wVFenNxFKJMreqd8ZAqlYLzVyLdWAqQ/Iu6","role":"Student","name":"Ahmad Lafi","major":"CE","dob":"17-10-1999","id":1001}
+{"email":"mohammed@gmail.com","password":"$2a$10$Nxk5D74zpl.fMHT7C1wVFenNxFKJMreqd8ZAqlYLzVyLdWAqQ/Iu6","role":"Student","name":"Mohammed Ali","major":"CS","dob":"2-11-1994","id":1002}
+{"email":"anas@gmail.com","password":"$2a$10$Nxk5D74zpl.fMHT7C1wVFenNxFKJMreqd8ZAqlYLzVyLdWAqQ/Iu6","role":"Student","name":"Anas Issa","major":"IT","dob":"7-6-2002","id":1003}
+{"email":"khalid@gmail.com","password":"$2a$10$Nxk5D74zpl.fMHT7C1wVFenNxFKJMreqd8ZAqlYLzVyLdWAqQ/Iu6","role":"Student","name":"Khalid Musa","major":"ME","dob":"14-4-1990","id":1004}
+{"email":"noor@gmail.com","password":"`$2a$10$Nxk5D74zpl.fMHT7C1wVFenNxFKJMreqd8ZAqlYLzVyLdWAqQ/Iu6","role":"Student","name":"Noor Helal","major":"EE","dob":"22-12-2000","id":1005}
+{"email":"noor@gmail.com","password":"$2a$10$Nxk5D74zpl.fMHT7C1wVFenNxFKJMreqd8ZAqlYLzVyLdWAqQ/Iu6","role":"Student","name":"Noor Helal","major":"EE","dob":"22-10-2000","id":1005}
+{"email":"kh@gmail.com","password":"$2a$10$Nxk5D74zpl.fMHT7C1wVFenNxFKJMreqd8ZAqlYLzVyLdWAqQ/Iu6","role":"Instructor","name":"Khalil Husean","phone":"0783216540","department":"CE","id":2001}
+{"email":"kh@gmail.com","password":"$2a$10$Nxk5D74zpl.fMHT7C1wVFenNxFKJMreqd8ZAqlYLzVyLdWAqQ/Iu6","role":"Instructor","name":"Khalil Husean","phone":"0793456104","department":"CS","id":2002}
+{"email":"ia@gmail.com","password":"$2a$10$Nxk5D74zpl.fMHT7C1wVFenNxFKJMreqd8ZAqlYLzVyLdWAqQ/Iu6","role":"Instructor","name":"Ibrahim Aljamal","phone":"0771234640","department":"EE","id":2003}
+{"email":"issa@gmail.com","password":"$2a$10$Nxk5D74zpl.fMHT7C1wVFenNxFKJMreqd8ZAqlYLzVyLdWAqQ/Iu6","role":"Instructor","name":"Issa Alhaded","phone":"0783123413","department":"ME","id":2004}
+{"email":"kh@gmail.com","password":"$2a$10$Nxk5D74zpl.fMHT7C1wVFenNxFKJMreqd8ZAqlYLzVyLdWAqQ/Iu6","role":"Instructor","name":"Khalil Husean","phone":"0790000000","department":"CS","id":2002}
+{"email":"kh@gmail.com","password":"$2a$10$Nxk5D74zpl.fMHT7C1wVFenNxFKJMreqd8ZAqlYLzVyLdWAqQ/Iu6","role":"Instructor","name":"Khalil Husean","phone":"0791110000","department":"CS","id":2002}
+{"email":"test@gmail.com","password":"$2a$10$Nxk5D74zpl.fMHT7C1wVFenNxFKJMreqd8ZAqlYLzVyLdWAqQ/Iu6","role":"Admin","id":4444}
+
+{"email":"test@gmail.com","password":"$2a$10$Nxk5D74zpl.fMHT7C1wVFenNxFKJMreqd8ZAqlYLzVyLdWAqQ/Iu6","role":"Admin","id":4444}
+{"email":"test@gmail.com","password":"$2a$10$Nxk5D74zpl.fMHT7C1wVFenNxFKJMreqd8ZAqlYLzVyLdWAqQ/Iu6","role":"Admin","id":4444}
